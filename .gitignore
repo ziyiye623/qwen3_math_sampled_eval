@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+wandb/
+logs/
+logs_t06_p095/
+*.log

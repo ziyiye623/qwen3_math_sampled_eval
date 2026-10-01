@@ -1,0 +1,14 @@
+{
+  "step": 100,
+  "num_examples": 4998,
+  "correct": 2881,
+  "accuracy": 0.5764305722288916,
+  "mean_reward": 0.5764305722288916,
+  "seed": 42,
+  "do_sample": true,
+  "temperature": 1.0,
+  "top_p": 1.0,
+  "top_k": -1,
+  "n": 1,
+  "max_new_tokens": 4096
+}
